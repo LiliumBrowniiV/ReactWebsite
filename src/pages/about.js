@@ -1,0 +1,114 @@
+import React from 'react'
+import background from "./Home.jpg";
+const about = () => {
+  return (
+    <div style  = {{ backgroundImage: `url(${background})`}}>
+      <h1>
+      GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+        GeeksforGeeks is a Computer 
+        Science portal for geeks.
+      </h1>
+    </div>
+  )
+}
+
+export default about
